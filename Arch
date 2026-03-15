@@ -1,0 +1,28 @@
+codex/
+│
+├─ cli/
+│   └─ codex.ts
+│
+├─ ingest/
+│   └─ csv_loader.ts
+│
+├─ research/
+│   └─ company_research.ts
+│
+├─ scoring/
+│   └─ account_tiering.ts
+│
+├─ whitespace/
+│   └─ whitespace_engine.ts
+│
+├─ proposal/
+│   └─ proposal_generator.ts
+│
+├─ outreach/
+│   └─ outreach_generator.ts
+│
+├─ campaign/
+│   └─ campaign_generator.ts
+│
+└─ config/
+    └─ products.yaml
